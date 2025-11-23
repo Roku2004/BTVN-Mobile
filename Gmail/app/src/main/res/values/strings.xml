@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">gmail_layout</string>
+    <string name="inbox">Inbox</string>
+    <string name="menu">Menu</string>
+    <string name="search">Search</string>
+    <string name="compose">Compose</string>
+    <string name="notice_icon_desc">Notice</string>
+    <string name="notice_close_desc">Close</string>
+    <string name="notice_message">Touch a sender image to select that conversation.</string>
+
+    <!-- Sample strings for email item -->
+    <string name="avatar_desc">Avatar</string>
+    <string name="sample_sender">Edurila.com</string>
+    <string name="sample_time">12:34 PM</string>
+    <string name="sample_subject">$19 Only (First 10 spots) - Bestselling…</string>
+    <string name="sample_description">Are you looking to Learn Web Designing…</string>
+    <string name="star_desc">Star</string>
+</resources>
